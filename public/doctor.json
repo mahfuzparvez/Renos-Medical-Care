@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "name": "Dr.Erwin Bälz",
+        "title": "Head of FAMILY PHYSICIANS",
+        "img": "https://i.postimg.cc/pdbL5nZb/drArina.png",
+        "description": " Family physicians, one of the most well known of all the different types of doctors, diagnose and treat diseases and injuries within the general population. As the US Department of Labor (DOL) explains, they are the first point of contact for patients in the health care system and may refer patients to specialists when needed."
+    },
+    {
+        "id": "2",
+        "name": "Dr.Peter Bamm",
+        "title": "Assit of EMERGENCY PHYSICIANS",
+        "img": "https://i.postimg.cc/2j2y9yzh/dr-Abul-khan.png",
+        "description": "Physicians who specialize in emergency medicine are quick-thinking providers able to swiftly address life-threatening or emergent situations. Emergency physicians work quickly to conduct evaluations, make diagnoses, and stabilize patients. More than almost any other type of doctor, these practitioners work with an incredibly diverse array of patients and conditions."
+    },
+    {
+        "id": "3",
+        "name": "Dr.Heinrich Adolf",
+        "title": "PEDIATRICIANS",
+        "img": "https://i.postimg.cc/xTZCYZNd/dr-Bulbul-Shaha.png",
+        "description": "Pediatricians are physicians who diagnose and treat a wide array of diseases and injuries in children, adolescents, and babies. Pediatricians practice preventive medicine and also diagnose common childhood diseases, such as asthma, allergies, and croup. They may work as a primary care provider or narrow their scope of practice in a sub-specialty. They also provide referrals to other specialists as needed."
+    },
+    {
+        "id": "4",
+        "name": "Dr.Karl Becker",
+        "title": "Assit of ANESTHESIOLOGISTS",
+        "img": "https://i.postimg.cc/cL8JJcfB/dr-Jahangir-Shaha.png",
+        "description": " Anesthesiologists are physicians who administer anesthetics and sedation during medical and surgical procedures. They also maintain life support and airway management."
+    },
+    {
+        "id": "5",
+        "name": "Dr.Theodor Bilharz",
+        "title": "Assit of DERMATOLOGIST",
+        "img": "https://i.postimg.cc/HsnxqmxK/dr-Jorina-Apa.png",
+        "description": "They also recognize symptoms that appear on your skin which may indicate problems inside your body, like organ disease or failure. Dermatologists often perform specialized diagnostic procedures related to skin conditions."
+    },
+    {
+        "id": "6",
+        "name": "Dr.Theodor Brugsch",
+        "title": "Head of DERMATOLOGIST",
+        "img": "https://i.postimg.cc/HxTWBDR6/dr-Kuddush-apa.png",
+        "description": "They also recognize symptoms that appear on your skin which may indicate problems inside your body, like organ disease or failure. Dermatologists often perform specialized diagnostic procedures related to skin conditions."
+    },
+    {
+        "id": "7",
+        "name": "Dr.Otto Buchinger",
+        "title": "Head of PSYCHIATRISTS",
+        "img": "https://i.postimg.cc/V64fhZcm/dr-Lampo-Alam.png",
+        "description": " Psychiatrists are physicians who diagnose and treat mental, emotional, and behavioral disorders. They conduct medical laboratory and psychological tests to diagnose and treat patients."
+    },
+    {
+        "id": "8",
+        "name": "Dr.Gregor Ebner",
+        "title": "Head of CARDIOLOGISTS",
+        "img": "https://i.postimg.cc/rp1F1Fnd/dr-Masud-Hassan.png",
+        "description": "Cardiologists focus on diagnosing, treating, and managing cardiovascular conditions, including hypertension and arrhythmias. While they are considered medical specialists, they can also focus their practice on interventional procedures."
+    },
+    {
+        "id": "9",
+        "name": "Dr.Hans Ehlich",
+        "title": "Assit of DIABETES",
+        "img": "https://i.postimg.cc/ZnRbzPT3/drMasuma.png",
+        "description": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy."
+    },
+    {
+        "id": "10",
+        "name": "Dr.Ernst Gadermann",
+        "title": "Head of RADIOLOGISTS",
+        "img": "https://i.postimg.cc/hv5SDJjY/dr-Mokadash-Hassan.png",
+        "description": " Radiologists are physicians who diagnose illnesses in patients through the use of x-rays, radioactive substances, sound waves in ultrasounds, or the body’s natural magnetism in MRIs."
+    },
+    {
+        "id": "11",
+        "name": "Dr.Walther Kittel",
+        "title": "Head of OBSTETRICIANS AND GYNECOLOGISTS",
+        "img": "https://i.postimg.cc/VsGsBhRF/drSalma.png",
+        "description": " Obstetricians and gynecologists (OB/GYNs) provide medical care relating to female reproductive systems. These types of physicians diagnose and treat diseases and also provide care related to pregnancy and childbirth."
+    },
+    {
+        "id": "12",
+        "name": "Dr.Robert Koch",
+        "title": "Assit of CHEST DISEASES",
+        "img": "https://i.postimg.cc/158mWK71/dr-Shokina.png",
+        "description": "A pulmonologist diagnoses and treats diseases of the respiratory system. You might hear these healthcare providers called lung doctors, lung specialists or chest doctors. In addition to your lungs, your respiratory system includes your nose, throat, trachea, airways, muscles and blood vessels."
+    }
+]

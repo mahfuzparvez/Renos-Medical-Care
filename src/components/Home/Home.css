@@ -1,0 +1,28 @@
+#doctorCard{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.CardImage{
+    height: 350px;
+    cursor: pointer;
+}
+.singleCard{
+    box-shadow: 4px 4px 4px 4px #7a7a7a;
+    background-color: #f1eded;
+}
+.serviceCard{
+    
+}
+
+@media (max-width:688px){
+    #doctorCard{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+}
+@media (max-width:992px){
+    #doctorCard{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) ;
+    }
+}

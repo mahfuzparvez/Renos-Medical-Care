@@ -1,0 +1,12 @@
+.slideImage{
+    height: 550px;
+}
+#headerlogo{
+    height: 45px;
+    width: 110px;
+}
+#loginbtn{
+    color: aliceblue;
+    font-weight: 700;
+    text-decoration: none;
+}
