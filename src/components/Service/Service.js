@@ -8,7 +8,7 @@ const Service = () => {
                 <h2 className='my-4 text-primary'>OUR SERVICE</h2>
                 <CardGroup className='serviceCard container'>
                     <Card>
-                        <Carousel>
+                        <Carousel style={{ height: "250px" }}>
                             <Carousel.Item>
                                 <img
                                     className="d-block w-100"
@@ -37,10 +37,10 @@ const Service = () => {
                                 A dermatologist is a doctor who specializes in conditions involving the skin, hair, and nails. A dermatologist can identify and treat more than 3,000 conditions. These conditions include eczema, psoriasis, and skin cancer, among many others. The skin is an incredible organ.
                             </Card.Text>
                         </Card.Body>
-                        <Button className="btn btn-info my-2 w-25 mx-auto">Details</Button>
+                        <Button className="btn btn-info my-2 w-50 mx-auto">Details</Button>
                     </Card>
                     <Card className="mx-4">
-                        <Carousel>
+                        <Carousel style={{ height: "250px" }}>
                             <Carousel.Item>
                                 <img
                                     className="d-block w-100" height="242"
@@ -69,13 +69,13 @@ const Service = () => {
                                 Surgeries can be done to diagnose or treat disease or injury. In the operating room, surgeons lead a team of other doctors and nurses to make sure that a procedure goes smoothly. Surgeons use instruments to change or move live tissue, including: Lasers.
                             </Card.Text>
                         </Card.Body>
-                        <Button className="btn btn-info my-2 w-25 mx-auto">Details</Button>
+                        <Button className="btn btn-info my-2 w-50 mx-auto">Details</Button>
                     </Card>
                     <Card>
-                        <Carousel>
+                        <Carousel style={{ height: "250px" }}>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100 h-75"
+                                    className="d-block w-100"
                                     src="https://i.postimg.cc/7L0MGsW3/therapy1.jpg"
                                     alt="First slide"
                                 />
@@ -101,7 +101,7 @@ const Service = () => {
                                 Therapy is a way to get help with a mental health problem or get extra support if you are going through a tough time. If you go to therapy, you'll have meetings with a therapist to talk and learn. You'll learn skills to cope, feel better, and get help with the problem you're having.
                             </Card.Text>
                         </Card.Body>
-                        <Button className="btn btn-info my-2 w-25 mx-auto">Details</Button>
+                        <Button className="btn btn-info my-2 w-50 mx-auto">Details</Button>
                     </Card>
                 </CardGroup>
             </div>

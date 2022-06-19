@@ -1,12 +1,18 @@
-.slideImage{
+.slideImage {
     height: 550px;
 }
-#headerlogo{
+
+#headerlogo {
     height: 45px;
     width: 110px;
 }
-#loginbtn{
+
+#loginbtn {
     color: aliceblue;
     font-weight: 700;
     text-decoration: none;
+}
+
+#NAVBAR {
+    background: linear-gradient(0deg, rgba(27, 55, 91, 1) 0%, rgba(2, 20, 51, 1) 100%);
 }

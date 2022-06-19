@@ -9,12 +9,12 @@ const Header = () => {
     return (
         <div>
             <>
-                <Navbar fixed="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
+                <Navbar fixed="top" collapseOnSelect expand="lg" id="NAVBAR" variant="dark">
                     <Container>
                         <Navbar.Brand href="#home"><img id="headerlogo" src="https://i.postimg.cc/wTkc9PCL/logo-template-1.png" alt="" /> Renos Medical Care</Navbar.Brand>
                         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                         <Navbar.Collapse id="responsive-navbar-nav">
-                            <Nav className="me-auto">
+                            <Nav className="me-auto fw-bold">
                                 <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
                                 <Nav.Link as={HashLink} to="/service">Service</Nav.Link>
                                 <Nav.Link as={HashLink} to="/home#doctorCard">Dr and Sev Details</Nav.Link>
