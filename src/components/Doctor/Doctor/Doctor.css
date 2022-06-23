@@ -1,4 +1,17 @@
 .card Img {
     width: auto;
-    height: 250px;
+    height: 300px;
 }
+.card{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.bg-light{
+    padding: 20%
+}
+
+@media only screen and (max-width: 688px) {
+    .bg-light {
+      padding: 5%;
+    }
+  }

@@ -6,26 +6,26 @@ const Service = () => {
         <div>
             <div> {/* service section */}
                 <h2 className='my-4 text-primary'>OUR SERVICE</h2>
-                <CardGroup className='serviceCard container'>
-                    <Card>
-                        <Carousel style={{ height: "250px" }}>
+                <CardGroup className='container'>
+                    <Card className='serviceCard mx-2'>
+                        <Carousel>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100"
+                                    className="d-block"
                                     src="https://i.postimg.cc/6qwHpJ64/DERMATOLOGIST1.jpg"
                                     alt="First slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100"
+                                    className="d-block"
                                     src="https://i.postimg.cc/W4Tt8546/DERMATOLOGIST2.jpg"
                                     alt="Second slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100"
+                                    className="d-block"
                                     src="https://i.postimg.cc/B6NFHdcK/DERMATOLOGIST3.jpg"
                                     alt="Third slide"
                                 />
@@ -39,25 +39,25 @@ const Service = () => {
                         </Card.Body>
                         <Button className="btn btn-info my-2 w-50 mx-auto">Details</Button>
                     </Card>
-                    <Card className="mx-4">
-                        <Carousel style={{ height: "250px" }}>
+                    <Card className='serviceCard mx-2'>
+                        <Carousel>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100" height="242"
+                                    className="d-block"
                                     src="https://i.postimg.cc/8PYhyg8d/surgery1.jpg"
                                     alt="First slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100"
+                                    className="d-block"
                                     src="https://i.postimg.cc/6Qp4wHN6/surgery2.jpg"
                                     alt="Second slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100"
+                                    className="d-block"
                                     src="https://i.postimg.cc/7hVKCsbs/surgery3.jpg"
                                     alt="Third slide"
                                 />
@@ -71,25 +71,25 @@ const Service = () => {
                         </Card.Body>
                         <Button className="btn btn-info my-2 w-50 mx-auto">Details</Button>
                     </Card>
-                    <Card>
-                        <Carousel style={{ height: "250px" }}>
+                    <Card className='serviceCard mx-2'>
+                        <Carousel>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100"
+                                    className="d-block"
                                     src="https://i.postimg.cc/7L0MGsW3/therapy1.jpg"
                                     alt="First slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100" height="243"
+                                    className="d-block"
                                     src="https://i.postimg.cc/dQmHS1n2/therapy2.jpg"
                                     alt="Second slide"
                                 />
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    className="d-block w-100" height="244"
+                                    className="d-block"
                                     src="https://i.postimg.cc/mZwjyn2V/therapy3.jpg"
                                     alt="Third slide"
                                 />
